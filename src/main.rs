@@ -40,5 +40,5 @@ fn load_rules() -> Vec<ComplianceRule> {
 }
 
 fn main() {
-    println!("meoww")
+    println!("meoww222")
 }
